@@ -175,7 +175,7 @@ export const courses = [
     id: 18,
     name: 'Invierte en la Bolsa Mexicana y de USA',
     complete: '100%',
-    area: 'Finance',
+    area: 'Others',
     skillslearned: 'Stock Market',
     description: "Use the stock market to buy and sell stocks",
     instructor: 'Master Trader',

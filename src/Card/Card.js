@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import './Card.css';
 import image1 from '../images/noAvailable.jpg';
 
